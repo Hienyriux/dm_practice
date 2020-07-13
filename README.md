@@ -1,7 +1,7 @@
 # dm_practice
 Practice of Nanjing University's Introduction to Data Mining course in 2020 spring  
 一个代码查重(代码克隆)识别程序, 用于判断一对代码是否属于同一类  
-具体思路请看dm_report.pdf
+具体思路请看dm_report.pdf  
 原始训练和测试数据在https://www.kaggle.com/c/nju-introdm20  
 下面是运行说明:
 
